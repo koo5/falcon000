@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "description": "An example project for Auth.js with SvelteKit",
   "repository": "https://github.com/nextauthjs/sveltekit-auth-example",
